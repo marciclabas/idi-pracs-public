@@ -1,0 +1,8 @@
+[19/04, 8:52]
+
+8:52 - crear gui
+9:08 - reasoning about signal-slots
+9:10 - implement upper "their" way
+9:24 - done!
+9:25 - implementar return "their" way
+9:39 - done!
